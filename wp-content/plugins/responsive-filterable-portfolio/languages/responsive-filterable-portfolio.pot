@@ -1,0 +1,453 @@
+# Copyright (C) 2019 Responsive Filterable Portfolio
+# This file is distributed under the same license as the Responsive Filterable Portfolio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Filterable Portfolio 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/responsive-"
+"filterable-portfolio\n"
+"POT-Creation-Date: 2019-12-10 03:21:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-best-portfolio.php:422
+msgid ""
+"Responsive portfolio with lightbox is active but does not have write "
+"permission on"
+msgstr ""
+
+#: wp-best-portfolio.php:422
+msgid " directory.Please allow write permission."
+msgstr ""
+
+#: wp-best-portfolio.php:428
+msgid ""
+"Responsive portfolio with lightbox is active but plugin does not have "
+"permission to create directory"
+msgstr ""
+
+#: wp-best-portfolio.php:428
+msgid ""
+".Please create wp-best-portfolio directory inside upload directory and allow "
+"write permission."
+msgstr ""
+
+#: wp-best-portfolio.php:500
+msgid "Responsive Portfolio"
+msgstr ""
+
+#: wp-best-portfolio.php:501
+msgid "Portfolio Settings"
+msgstr ""
+
+#: wp-best-portfolio.php:502
+msgid "Manage Media"
+msgstr ""
+
+#: wp-best-portfolio.php:503
+msgid "Preview Portfolio"
+msgstr ""
+
+#: wp-best-portfolio.php:534 wp-best-portfolio.php:881
+msgid "Access Denied"
+msgstr ""
+
+#: wp-best-portfolio.php:577
+msgid "Settings saved successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:616 wp-best-portfolio.php:637
+#: wp-best-portfolio.php:933 wp-best-portfolio.php:1847
+#: wp-best-portfolio.php:3238
+msgid "UPGRADE TO PRO VERSION"
+msgstr ""
+
+#: wp-best-portfolio.php:638
+msgid "Edit Portfolio"
+msgstr ""
+
+#: wp-best-portfolio.php:648
+msgid "Grid Background color"
+msgstr ""
+
+#: wp-best-portfolio.php:667
+msgid "Thumbnail Height"
+msgstr ""
+
+#: wp-best-portfolio.php:686
+msgid "Thumbnail Width"
+msgstr ""
+
+#: wp-best-portfolio.php:705
+msgid "Thumbnail Margin"
+msgstr ""
+
+#: wp-best-portfolio.php:714
+msgid "Gap between two images"
+msgstr ""
+
+#: wp-best-portfolio.php:724
+msgid "All Keyword Translate"
+msgstr ""
+
+#: wp-best-portfolio.php:733
+msgid "Used in filter"
+msgstr ""
+
+#: wp-best-portfolio.php:743
+msgid "Show Filter ?"
+msgstr ""
+
+#: wp-best-portfolio.php:754
+msgid "Yes"
+msgstr ""
+
+#: wp-best-portfolio.php:761
+msgid "No"
+msgstr ""
+
+#: wp-best-portfolio.php:772 wp-best-portfolio.php:2429
+#: wp-best-portfolio.php:2665 wp-best-portfolio.php:2870
+msgid "Save Changes"
+msgstr ""
+
+#: wp-best-portfolio.php:774 wp-best-portfolio.php:2431
+#: wp-best-portfolio.php:2667 wp-best-portfolio.php:2872
+msgid "Cancel"
+msgstr ""
+
+#: wp-best-portfolio.php:833 wp-best-portfolio.php:1253
+#: wp-best-portfolio.php:2985 wp-best-portfolio.php:3527
+msgid "Access All Themes In One Price"
+msgstr ""
+
+#: wp-best-portfolio.php:844 wp-best-portfolio.php:1266
+#: wp-best-portfolio.php:2996 wp-best-portfolio.php:3538
+msgid "Google For Business Coupon"
+msgstr ""
+
+#: wp-best-portfolio.php:957
+msgid "Media"
+msgstr ""
+
+#: wp-best-portfolio.php:957
+msgid "Add New"
+msgstr ""
+
+#: wp-best-portfolio.php:964 wp-best-portfolio.php:1192
+msgid "Bulk Actions"
+msgstr ""
+
+#: wp-best-portfolio.php:965 wp-best-portfolio.php:1108
+#: wp-best-portfolio.php:1161 wp-best-portfolio.php:1163
+#: wp-best-portfolio.php:1193
+msgid "Delete"
+msgstr ""
+
+#: wp-best-portfolio.php:967 wp-best-portfolio.php:1196
+msgid "Apply"
+msgstr ""
+
+#: wp-best-portfolio.php:1034 wp-best-portfolio.php:1036
+msgid "Search"
+msgstr ""
+
+#: wp-best-portfolio.php:1037
+msgid "Reset Search"
+msgstr ""
+
+#: wp-best-portfolio.php:1068 wp-best-portfolio.php:1071
+#: wp-best-portfolio.php:1073 wp-best-portfolio.php:1144
+msgid "Id"
+msgstr ""
+
+#: wp-best-portfolio.php:1078 wp-best-portfolio.php:1081
+#: wp-best-portfolio.php:1083 wp-best-portfolio.php:1927
+msgid "Media Type"
+msgstr ""
+
+#: wp-best-portfolio.php:1088 wp-best-portfolio.php:1091
+#: wp-best-portfolio.php:1093 wp-best-portfolio.php:1150
+msgid "Title"
+msgstr ""
+
+#: wp-best-portfolio.php:1099 wp-best-portfolio.php:1102
+#: wp-best-portfolio.php:1104 wp-best-portfolio.php:1157
+msgid "Published On"
+msgstr ""
+
+#: wp-best-portfolio.php:1107 wp-best-portfolio.php:1158
+#: wp-best-portfolio.php:1159
+msgid "Edit"
+msgstr ""
+
+#: wp-best-portfolio.php:1174
+msgid "No Record"
+msgstr ""
+
+#: wp-best-portfolio.php:1174
+msgid "No portfolio Found"
+msgstr ""
+
+#: wp-best-portfolio.php:1209
+msgid "Are you sure you want to delete selected media ?"
+msgstr ""
+
+#: wp-best-portfolio.php:1218
+msgid "Are you sure you want to delete this media ?"
+msgstr ""
+
+#: wp-best-portfolio.php:1233 wp-best-portfolio.php:3508
+msgid "To print this video gallery into WordPress Post/Page use below code"
+msgstr ""
+
+#: wp-best-portfolio.php:1239 wp-best-portfolio.php:3513
+msgid ""
+"To print this video gallery into WordPress theme/template PHP files use "
+"below code"
+msgstr ""
+
+#: wp-best-portfolio.php:1370 wp-best-portfolio.php:1436
+#: wp-best-portfolio.php:1531 wp-best-portfolio.php:1595
+#: wp-best-portfolio.php:1689 wp-best-portfolio.php:1757
+#: wp-best-portfolio.php:1858 wp-best-portfolio.php:1909
+#: wp-best-portfolio.php:3032 wp-best-portfolio.php:3101
+#: wp-best-portfolio.php:3190
+msgid "Access Denied. Please contact your administrator"
+msgstr ""
+
+#: wp-best-portfolio.php:1409
+msgid "Video updated successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1416 wp-best-portfolio.php:1486
+msgid "Error while adding video"
+msgstr ""
+
+#: wp-best-portfolio.php:1478
+msgid "New video added successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1570
+msgid "Image updated successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1577 wp-best-portfolio.php:1644
+msgid "Error while adding image"
+msgstr ""
+
+#: wp-best-portfolio.php:1638
+msgid "New image added successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1729
+msgid "Link updated successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1736 wp-best-portfolio.php:1806
+msgid "Error while adding link"
+msgstr ""
+
+#: wp-best-portfolio.php:1799
+msgid "New link added successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:1888
+msgid "Update Media"
+msgstr ""
+
+#: wp-best-portfolio.php:1918
+msgid "Add Media"
+msgstr ""
+
+#: wp-best-portfolio.php:1928
+msgid "Choose Media Type"
+msgstr ""
+
+#: wp-best-portfolio.php:1933
+msgid "Image"
+msgstr ""
+
+#: wp-best-portfolio.php:1934
+msgid "Video"
+msgstr ""
+
+#: wp-best-portfolio.php:1935
+msgid "Link"
+msgstr ""
+
+#: wp-best-portfolio.php:1996
+msgid "Video Information"
+msgstr ""
+
+#: wp-best-portfolio.php:1997
+msgid "Choose Video Site"
+msgstr ""
+
+#: wp-best-portfolio.php:2003
+msgid "Youtube"
+msgstr ""
+
+#: wp-best-portfolio.php:2005
+msgid "Metacafe"
+msgstr ""
+
+#: wp-best-portfolio.php:2013
+msgid "Video Url"
+msgstr ""
+
+#: wp-best-portfolio.php:2020
+msgid "Please do not use youtube.be, instead of use youtube.com"
+msgstr ""
+
+#: wp-best-portfolio.php:2027
+msgid "Video Thumbnail Information"
+msgstr ""
+
+#: wp-best-portfolio.php:2032 wp-best-portfolio.php:2446
+#: wp-best-portfolio.php:2682
+msgid "Current Image"
+msgstr ""
+
+#: wp-best-portfolio.php:2045
+msgid "Click Here to get video information and thumbnail"
+msgstr ""
+
+#: wp-best-portfolio.php:2045
+msgid "From"
+msgstr ""
+
+#: wp-best-portfolio.php:2056
+msgid "Click Here to upload custom video thumbnail"
+msgstr ""
+
+#: wp-best-portfolio.php:2344 wp-best-portfolio.php:2578
+msgid "Used into lightbox"
+msgstr ""
+
+#: wp-best-portfolio.php:2358
+msgid "Video Title Url"
+msgstr ""
+
+#: wp-best-portfolio.php:2359
+msgid " click on title redirect to this url.Used in lightbox for video title"
+msgstr ""
+
+#: wp-best-portfolio.php:2376 wp-best-portfolio.php:2610
+#: wp-best-portfolio.php:2845
+msgid "Media Tags"
+msgstr ""
+
+#: wp-best-portfolio.php:2377
+msgid "Tags used for filter on grid.You can add comma separated values."
+msgstr ""
+
+#: wp-best-portfolio.php:2394
+msgid "Play Video In Lightbox?"
+msgstr ""
+
+#: wp-best-portfolio.php:2395
+msgid "show video in lightbox or redirect?"
+msgstr ""
+
+#: wp-best-portfolio.php:2410
+msgid "Show Video In Lightbox?"
+msgstr ""
+
+#: wp-best-portfolio.php:2441 wp-best-portfolio.php:2677
+msgid "Image Information"
+msgstr ""
+
+#: wp-best-portfolio.php:2466 wp-best-portfolio.php:2702
+msgid "Click Here to upload Image"
+msgstr ""
+
+#: wp-best-portfolio.php:2577
+msgid "Image Title"
+msgstr ""
+
+#: wp-best-portfolio.php:2592
+msgid "Image Title Url"
+msgstr ""
+
+#: wp-best-portfolio.php:2593
+msgid "click on title redirect to this url.Used in lightbox for image title"
+msgstr ""
+
+#: wp-best-portfolio.php:2610 wp-best-portfolio.php:2846
+msgid " Tags used for filter on grid.You can add comma separated values."
+msgstr ""
+
+#: wp-best-portfolio.php:2628
+msgid "Show Image In Lightbox?"
+msgstr ""
+
+#: wp-best-portfolio.php:2629
+msgid "show image in lightbox or redirect ?"
+msgstr ""
+
+#: wp-best-portfolio.php:2644
+msgid "Show image In Lightbox?"
+msgstr ""
+
+#: wp-best-portfolio.php:2812
+msgid "Link Title"
+msgstr ""
+
+#: wp-best-portfolio.php:2813
+msgid "Used into Caption"
+msgstr ""
+
+#: wp-best-portfolio.php:2827
+msgid "Link Url"
+msgstr ""
+
+#: wp-best-portfolio.php:2828
+msgid "click on image will redirect to this url."
+msgstr ""
+
+#: wp-best-portfolio.php:3075
+msgid "Video deleted successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:3082
+msgid "Error while deleting video."
+msgstr ""
+
+#: wp-best-portfolio.php:3155
+msgid "Selected videos deleted successfully."
+msgstr ""
+
+#: wp-best-portfolio.php:3163
+msgid "Error while deleting videos."
+msgstr ""
+
+#: wp-best-portfolio.php:3239
+msgid "Portfolio Preview"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Responsive Filterable Portfolio"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.i13websolution.com/wordpress-responsive-media-portfolio-grid.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is beautiful responsive portfolio grid with responsive lightbox.Add any "
+"number of images,links,video from admin panel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "I Thirteen Web Solution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.i13websolution.com"
+msgstr ""
