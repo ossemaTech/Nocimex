@@ -24,7 +24,7 @@
 	margin-left: -22px;
 	width: 44px;
 	height: 44px;
-	background: url('../images/vl-box/controls.png') 0 -108px;
+	background: url('https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/controls.png') 0 -108px;
 	opacity: 0.8;
 	cursor: pointer;
 	z-index: 1000000;
@@ -34,7 +34,7 @@
 #fancybox_fp-loading_ div {
 	width: 44px;
 	height: 44px;
-	background: url('../images/vl-box/loading.gif') center center no-repeat;
+	background: url('https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/loading.gif') center center no-repeat;
 }
 
 #fancybox_fp-overlay {
@@ -114,7 +114,7 @@ box-sizing:content-box;
 	right: -18px;
 	width: 36px;
 	height: 36px;
-	background: url('../images/vl-box/controls.png') 0 0 no-repeat;
+	background: url('https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/controls.png') 0 0 no-repeat;
 	cursor: pointer;
 	z-index: 1103;
 	display: none;
@@ -180,11 +180,11 @@ box-sizing:content-box;
 }
 
 #fancybox_fp-left-ico_ {
-	background: url('../images/vl-box/controls.png') 0 -36px no-repeat;
+	background: url('https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/controls.png') 0 -36px no-repeat;
 }
 
 #fancybox_fp-right-ico_ {
-	background: url('../images/vl-box/controls.png') 0 -72px no-repeat;
+	background: url('https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/controls.png') 0 -72px no-repeat;
 }
 
 #fancybox_fp-left_:hover span {
@@ -259,5 +259,5 @@ box-sizing:content-box;
   bottom: 0;
   right: 0;
   z-index: 1;
-  background: url("../images/vl-box/player_play.png")  no-repeat center center;
+  background: url("https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/vl-box/player_play.png")  no-repeat center center;
 }

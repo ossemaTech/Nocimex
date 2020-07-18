@@ -293,7 +293,7 @@ background:rgba(0,0,0,.75);
 .figure:hover .playbtnCss_link{display:block}
 .figure:hover .playbtnCss_video{display:block}
 .playbtnCss_zoom {
-    background: rgba(0,0,0,.40) url("../images/zoom.png") no-repeat scroll center center;
+    background: rgba(0,0,0,.40) url("https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/zoom.png") no-repeat scroll center center;
     bottom: 0;
     display: none;
     left: 0;
@@ -304,7 +304,7 @@ background:rgba(0,0,0,.75);
 }
 
 .playbtnCss_link {
-    background: rgba(0,0,0,.40) url("../images/link.png") no-repeat scroll center center;
+    background: rgba(0,0,0,.40) url("https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/link.png") no-repeat scroll center center;
     bottom: 0;
     display: none;
     left: 0;
@@ -314,7 +314,7 @@ background:rgba(0,0,0,.75);
     z-index: 1;
 }
 .playbtnCss_video{
-    background: rgba(0,0,0,.40) url("../images/video.png") no-repeat scroll center center;
+    background: rgba(0,0,0,.40) url("https://ossematech.github.io/Nocimex/wp-content/plugins/responsive-filterable-portfolio/images/video.png") no-repeat scroll center center;
     bottom: 0;
     display: none;
     left: 0;
